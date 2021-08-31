@@ -5,11 +5,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrandreteodoro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="MrAndreTeodoro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MrAndreTeodoro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MrAndreTeodoro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="MrAndreTeodoro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MrAndreTeodoro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="MrAndreTeodoro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+ <img align="center" alt="MrAndreTeodoro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="MrAndreTeodoro-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+ <img align="center" alt="MrAndreTeodoro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="MrAndreTeodoro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="MrAndreTeodoro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="MrAndreTeodoro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="MrAndreTeodoro-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+ <img align="center" alt="MrAndreTeodoro-WooCommerce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain-wordmark.svg">
+ <img align="center" alt="MrAndreTeodoro-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+ <img align="center" alt="MrAndreTeodoro-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+ <img align="center" alt="MrAndreTeodoro-DigitalOcean" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg">
+ 
+ 
 </div>
   
   ##
